@@ -30,7 +30,7 @@
 
 **Глобально (доступен во всех проектах):**
 ```bash
-git clone https://github.com/<you>/infostyle-skill.git
+git clone https://github.com/Zoldadt/infostyle-skill.git
 mkdir -p ~/.claude/skills
 cp -r infostyle-skill/infostyle ~/.claude/skills/
 ```
