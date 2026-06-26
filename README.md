@@ -6,6 +6,8 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+📖 **Разбор и установка на сайте автора:** [ventas-boost.com/ru/blog/infostyle-skill](https://ventas-boost.com/ru/blog/infostyle-skill/?utm_source=github&utm_medium=readme&utm_campaign=infostyle)
+
 ---
 
 ## Зачем
